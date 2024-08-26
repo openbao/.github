@@ -23,7 +23,8 @@ You can reach out to us through the following channels as well:
 
 ### Community driven development
 
-We love to build ❤ our product in open source.
+We love ❤ open source and building our project in the open.
+
 - At [LF Edge](https://www.lfedge.org/), the umbrella group within the Linux Foundation, OpenBao is a Stage One: At-Large project.
 - Join us so we can make OpenBao more robust and more inclusive.
 - Please read our [contribution guidelines](https://github.com/openbao/openbao/blob/main/CONTRIBUTING.md) for details of how you can get involved, and [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) for information about how to participate.
