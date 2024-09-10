@@ -22,6 +22,11 @@ You can reach out to us through the following channels as well:
 - [Mailing List](https://lists.lfedge.org/g/openbao)
 - [TSC Mailing List](https://lists.lfedge.org/g/openbao-tsc)
 - [Chat Server](https://chat.lfx.linuxfoundation.org/)
+  - `#openbao-announcements` ([matrix client](https://matrix.to/#/#openbao-announcements:chat.lfx.linuxfoundation.org), [home server](https://chat.lfx.linuxfoundation.org/#/room/#openbao-announcements:chat.lfx.linuxfoundation.org))
+  - `#openbao-development` ([matrix client](https://matrix.to/#/#openbao-development:chat.lfx.linuxfoundation.org), [home server](https://chat.lfx.linuxfoundation.org/#/room/#openbao-development:chat.lfx.linuxfoundation.org))
+  - `#openbao-general` ([matrix client](https://matrix.to/#/#openbao-general:chat.lfx.linuxfoundation.org), [home server](https://chat.lfx.linuxfoundation.org/#/room/#openbao-general:chat.lfx.linuxfoundation.org))
+  - `#openbao-questions` ([matrix client](https://matrix.to/#/#openbao-questions:chat.lfx.linuxfoundation.org), [home server](https://chat.lfx.linuxfoundation.org/#/room/#openbao-questions:chat.lfx.linuxfoundation.org))
+  - `#openbao-random` ([matrix client](https://matrix.to/#/#openbao-random:chat.lfx.linuxfoundation.org), [home server](https://chat.lfx.linuxfoundation.org/#/room/#openbao-random:chat.lfx.linuxfoundation.org))
 - [GitHub Discussions](https://github.com/orgs/openbao/discussions)
 
 ### Community driven development
