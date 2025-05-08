@@ -37,6 +37,10 @@ We love ❤ open source and building our project in the open.
 - Join us so we can make OpenBao more robust and more inclusive.
 - Please read our [contribution guidelines](https://github.com/openbao/openbao/blob/main/CONTRIBUTING.md) for details of how you can get involved and [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) for information about how to participate.
 
+### Security
+
+Please consult our [security policy](../SECURITY.md), if you believe to have identified a security issue or problem.
+
 ### Appendix
 
 - [Documentation Site](https://openbao.org/)
