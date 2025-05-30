@@ -6,16 +6,16 @@
 <p align="center">
 <a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="element"><img src="https://img.shields.io/badge/element-@openbao--element-green.svg" alt="element"></img></a>
 <a href="https://openbao.org" alt="Project website"><img src="https://img.shields.io/badge/website-openbao.org-blue.svg" alt="Project website"></img></a>
-<a href="https://www.lfedge.org/projects/openbao/" alt="LF Edge Project Page"><img src="https://img.shields.io/badge/projectpage-openbao_@_LF_Edge-orange.svg" alt="LF Edge Project Page"></img></a>
+<a href="https://openssf.org/projects/openbao/" alt="OpenSSF Project Page"><img src="https://img.shields.io/badge/projectpage-openbao_@_OpenSSF-orange.svg" alt="OpenSSF Project Page"></img></a>
 <a href="https://lf-edge.atlassian.net/wiki/spaces/OP/overview" alt="Wiki"><img src="https://img.shields.io/badge/wiki-@lf_edge--wiki-9cf.svg" alt="wiki"></img></a>
 
 </p>
 
-[OpenBao](https://openbao.org) is an identity-based secrets and encryption management system with open governance under [Linux Foundation Edge](https://www.lfedge.org/projects/openbao/).
+[OpenBao](https://openbao.org) is an identity-based secrets and encryption management system with open governance under the [OpenSSf](https://openssf.org/projects/openbao/).
 
 ## Contact
 
-For reporting bugs, requesting features, and discussing changes, developers should use Github issues and discussions on these repositories. To connect with the community and learn more about the software solution, new users should bookmark or visit the [OpenBao web site](https://www.lfedge.org/projects/openbao/).
+For reporting bugs, requesting features, and discussing changes, developers should use Github issues and discussions on these repositories. To connect with the community and learn more about the software solution, new users should bookmark or visit the [OpenBao web site](https://openbao.org/).
 
 You can reach out to us through the following channels as well:
 
@@ -33,7 +33,7 @@ You can reach out to us through the following channels as well:
 
 We love ❤ open source and building our project in the open.
 
-- At [LF Edge](https://www.lfedge.org/), the umbrella group within the Linux Foundation, OpenBao is a Stage One: At-Large project.
+- At [OpenSSf](https://openssf.org/), the umbrella group within the Linux Foundation, OpenBao is a sandbox project.
 - Join us so we can make OpenBao more robust and more inclusive.
 - Please read our [contribution guidelines](https://github.com/openbao/openbao/blob/main/CONTRIBUTING.md) for details of how you can get involved and [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) for information about how to participate.
 
