@@ -19,8 +19,8 @@ For reporting bugs, requesting features, and discussing changes, developers shou
 
 You can reach out to us through the following channels as well:
 
-- [Mailing List](https://lists.lfedge.org/g/openbao)
-- [TSC Mailing List](https://lists.lfedge.org/g/openbao-tsc)
+- [Mailing List](https://lists.openssf.org/g/openbao)
+- [TSC Mailing List](https://lists.openssf.org/g/openbao-tsc)
 - [Chat Server](https://chat.lfx.linuxfoundation.org/)
   - `#openbao-announcements` ([matrix client](https://matrix.to/#/#openbao-announcements:chat.lfx.linuxfoundation.org), [home server](https://chat.lfx.linuxfoundation.org/#/room/#openbao-announcements:chat.lfx.linuxfoundation.org))
   - `#openbao-development` ([matrix client](https://matrix.to/#/#openbao-development:chat.lfx.linuxfoundation.org), [home server](https://chat.lfx.linuxfoundation.org/#/room/#openbao-development:chat.lfx.linuxfoundation.org))
