@@ -45,6 +45,6 @@ Please consult our [security policy](../SECURITY.md), if you believe to have ide
 
 - [Documentation Site](https://openbao.org/)
 - [Contributing](https://github.com/openbao/openbao/blob/main/CONTRIBUTING.md)
-- [Mentorship Opportunities](https://wiki.lfedge.org/display/OH/Mentorship+Programs)
+- [Mentorship Opportunities](https://mentorship.lfx.linuxfoundation.org)
 - [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 - [Anti-trust Policy](https://lfprojects.org/policies/antitrust-policy/)
