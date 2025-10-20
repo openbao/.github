@@ -25,12 +25,6 @@ You can reach out to us through the following channels as well:
   - [`#openssf-openbao-discussion`](https://linuxfoundation.zulipchat.com/#narrow/channel/529890-openssf-openbao-discussion)
   - [`#openssf-openbao-support`](https://linuxfoundation.zulipchat.com/#narrow/channel/530381-openssf-openbao-support)
   - [`#openssf-openbao-tsc`](https://linuxfoundation.zulipchat.com/#narrow/channel/530382-openssf-openbao-tsc)
-  - Working Groups:
-    - [`#openssf-openbao-wg-namespaces`](https://linuxfoundation.zulipchat.com/#narrow/channel/532995-openssf-openbao-wg-namespaces)
-    - [`#openssf-openbao-wg-pkcs11`](https://linuxfoundation.zulipchat.com/#narrow/channel/532994-openssf-openbao-wg-pkcs11)
-    - [`#openssf-openbao-wg-scalability`](https://linuxfoundation.zulipchat.com/#narrow/channel/532998-openssf-openbao-wg-scalability)
-    - [`#openssf-openbao-wg-supply`](https://linuxfoundation.zulipchat.com/#narrow/channel/532999-openssf-openbao-wg-supply)
-    - [`#openssf-openbao-wg-ui`](https://linuxfoundation.zulipchat.com/#narrow/channel/532997-openssf-openbao-wg-ui)
 - [GitHub Discussions](https://github.com/orgs/openbao/discussions)
 
 ### Community driven development
