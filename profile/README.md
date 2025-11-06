@@ -11,7 +11,7 @@
 
 </p>
 
-[OpenBao](https://openbao.org) is an identity-based secrets and encryption management system with open governance under the [OpenSSf](https://openssf.org/projects/openbao/).
+[OpenBao](https://openbao.org) is an identity-based secrets and encryption management system with open governance under the [OpenSSF](https://openssf.org/projects/openbao/).
 
 ## Contact
 
