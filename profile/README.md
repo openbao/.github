@@ -39,6 +39,14 @@ We love ❤ open source and building our project in the open.
 
 Please consult our [security policy](../SECURITY.md), if you believe to have identified a security issue or problem.
 
+### EU Funding
+
+The OpenBao project is grateful to SAP's [ApeiroRA](https://apeirora.eu/) initiative — supported and funded by the EU — for adopting OpenBao as its secrets and key management solution. Their adoption has directly enabled vital contributions to the project.
+
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/openbao/openbao-ecosystem-logos/refs/heads/main/eu_bmwk.svg" height="40%" width="40%"/>
+</p>
+
 ### Appendix
 
 - [Documentation Site](https://openbao.org/)
